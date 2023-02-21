@@ -65,8 +65,14 @@ main {
 }
 
 .s-News__links {
+  display: flex;
+  align-items: center;
   border-top: 1px solid rgb(229, 229, 229);
   padding-top: 1.25rem;
+  gap: 10px;
+}
+.s-LisTImage {
+  width: 70px;
 }
 .s-Category__sub {
   color: rgb(219, 51, 52);
