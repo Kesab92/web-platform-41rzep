@@ -47,10 +47,7 @@ main {
   max-width: 100%;
   height: auto;
 }
-.s-Image__content {
-  max-width: 100%;
-  height: auto;
-}
+
 .s-Category {
   text-transform: none;
   font-family: IrvinText, Georgia, 'Times New Roman', Times, serif;
